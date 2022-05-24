@@ -28,9 +28,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 1) This application is created on the latest version of Angular (13.3.9)
 2) HighCharts library is used to Chart and data table. 
 3) Application shows the World population based on region in different Era. 
-4) Y- axis represent the no. of population in millions and X- axis represent the region. 
+4) Y- axis represents the no. of population in millions and X- axis represents the region. 
 5) Stacked Column Chart is used to create the applicatoin and Spline Chart is representing the Average population over that region. 
 6) On Mouse hover over the legend will show year specific data. 
 7) If you click on the legend, it will hide that year's data from the graph. 
-8) On top right hand side, there is a button that will feature different option to export the graph in different formats. 
+8) On the top right hand side, there is a button that will feature different options to export the graph in different formats. 
 9) Data table at the bottom of the page represents the data in the table format. 
