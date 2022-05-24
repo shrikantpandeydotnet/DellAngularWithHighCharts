@@ -14,14 +14,23 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Steps to run the application.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1) Clone the git repository or download Zip file. 
+2) Unzip zipped folder and open folder location in command prompt.
+3) Make sure, nodejs and npm is installed in the system. 
+4) Type npm install to install all the dependency of the project. 
+5) Type ng serve to build the project. 
+6) Navigate to `http://localhost:4200/` to access the application. 
 
-## Running end-to-end tests
+## Application Features & Attributes.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1) This application is created on the latest version of Angular (13.3.9)
+2) HighCharts library is used to Chart and data table. 
+3) Application shows the World population based on region in different Era. 
+4) Y- axis represent the no. of population in millions and X- axis represent the region. 
+5) Stacked Column Chart is used to create the applicatoin and Spline Chart is representing the Average population over that region. 
+6) On Mouse hover over the legend will show year specific data. 
+7) If you click on the legend, it will hide that year's data from the graph. 
+8) On top right hand side, there is a button that will feature different option to export the graph in different formats. 
+9) Data table at the bottom of the page represents the data in the table format. 
